@@ -1,0 +1,3 @@
+Scraped Bashoo's Haiku into `fortune` format
+
+Drop the `bashoo-haiku` `bashoo-haiku.dat` files in `/usr/share/games/fortunes/`
