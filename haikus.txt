@@ -16,17 +16,17 @@ flowered out of season?
 [1666-7]
 [1672]
 
-kumo to hadatsu / tomo ka ya kari no / ikiwakare
-[cloud as separate / friend ! goose’s / living-separation]
-as clouds drift apart
-a wild goose now separates
-from his only friend
-
 shiroe fusu ya / yo wa sakasama / yuki no take
 [withered bent! / world as-for upside down’s / snow’s bamboo]
 withered and bent low
 the whole world turned upside down…
 bamboo under snow
+
+kumo to hadatsu / tomo ka ya kari no / ikiwakare
+[cloud as separate / friend ! goose’s / living-separation]
+as clouds drift apart
+a wild goose now separates
+from his only friend
 
 [1679]
 [1667]
@@ -88,8 +88,8 @@ the new year’s first day! …
 yet I pensive and lonely
 like autumn’s evening
 
-[1683]
 [1684-7]
+[1683]
 
 koe sumite / hokuto ni hibiku / kinuta kana
 [voice is-clear / northern-stars to echo / fulling-block]
@@ -148,8 +148,8 @@ I think of bleached bones
 in a field; wind pierces my
 body to the heart
 
-[1684-94]
 [1684]
+[1684-94]
 
 kumo kiri no / zanji hyakkei o / tsukushikeri
 [cloud mist’s / short-time hundred-scenes (acc.) / exhaust]
@@ -166,15 +166,14 @@ the wind of autumn
 [1684]
 [1684]
 
-uma ni nete / zanmu tsuki tōshi / cha no keburi
-[horse on sleep / lingering-dream moon distant / tea’s fire
-
 matsukaze no / ochiba ka mizu no /oto suzushi
 [pine-wind’s / falling-leaves? water’s / sound is-cool]
 are needles falling
 as the wind blows through the pines?
 cool sound of water
 
+uma ni nete / zanmu tsuki tōshi / cha no keburi
+[horse on sleep / lingering-dream moon distant / tea’s fire
 dozing on my horse,
 dream lingering, distant moon,
 smoke from a tea fire
@@ -185,19 +184,19 @@ smoke from a tea fire
 misoka tsuki nashi / chitose no sugi o / daku arashi
 [last-night-of-month moon is-not / thousand-year’s sugi (acc.) / hold
 windstorm]
-
-yuki to yuki / koyoi sjiwasu no / meigetsu ka
-[snow and snow / tonight twelfth-month’s / bright moon?]
 last night of the month, no moon…
 a thousand-year old cedar
 caught in a windstorm
 
+yuki to yuki / koyoi sjiwasu no / meigetsu ka
+[snow and snow / tonight twelfth-month’s / bright moon?]
 snow is upon snow…
 can tonight be the twelfth month’s
 full and whitest moon?
 
-[1684-5]
+
 [1684]
+[1684-5]
 
 wuta yumi ya / biwa ni nagusamu / take no oku
 [cotton bow! / lute by console / bamboo’s interior]
@@ -211,14 +210,15 @@ the sea is darkening…
 now a wild duck’s call,
 faint and indistinct and white
 
+
 [1684]
+[1685]
+
 tsuyu tokutoku / kokorimi ni ukiyo / susugabaya
 [dew drip drip / trial as floating-world / would-that-I-could wash]
 dew dripping, dripping…
 could I wash in it the dust
 of the floating world
-
-[1685]
 
 haru nare ya / na mo naki yama no / usugasumi
 [spring is! / name also is-not mountain’s / thin-mist]
@@ -256,7 +256,9 @@ from time to time the
 clouds let people have some rest
 as they view the moon
 
+
 [1685]
+[1686]
 
 inochi futatsu no / naka ni ikitaru / sakura kana
 [life two’s / between in lived / cherry-blossom!]
@@ -264,7 +266,6 @@ the lives of us two –
 between them has grown up this
 blossoming cherry
 
-[1686]
 furu hata ya / nazuna hana saku / kakine kana
 [well if-look / shepherd’s-purse flower bloom / hedge!]
 if you look closely –
@@ -288,6 +289,7 @@ a flower’s farewell
 
 [1686]
 [1686]
+
 furuike ya / kawazu tobikomu / mizo no oto
 [old pond! / frog jump-in / water’s sound]
 ancient is the pond –
@@ -300,8 +302,8 @@ just one possession –
 and my house feels as weightless
 as an empty gourd
 
-[1686-7]
 [1686]
+[1686-7]
 
 higashi nishi / awaresa hitotsu / aki no kaze
 [east west / pathos one / autumn’s wind]
@@ -331,13 +333,14 @@ dry my hand towel by the fire –
 how bitterly cold
 
 [Autumn 1687]
+[Winter 1687-8]
+
 inazuma o / te ni toru yami no / skisoku kana
 [lightning (acc.) / hand into take dark’s / small-candle-light!]
 a flash of lightning
 grasped so tightly in the hand –
 torchlight in the dark
 
-[Winter 1687-8]
 fuyu no hi ya / bashō ni kōru / kagebōshi
 [winter’s sun! / on-horseback on freeze / shadow]
 a pale wintry sun –
@@ -392,18 +395,17 @@ like some false cypress
 [Spring 1688]
 [Spring 1688]
 
-hibari yori / sora ni yasurau / tōge kana
-[skylark more-than / sky in rest / mountain-pass!
-
 hanazakari / yama wa higoro no / asaborake
 [flowers-in-full-bloom / mountain as-for everyday’s / dawn]
-higher than the lark,
-resting there far in the sky,
-Hoso mountain pass
-
 flowers in full bloom,
 and the mountains as always
 at the day’s dawning
+
+hibari yori / sora ni yasurau / tōge kana
+[skylark more-than / sky in rest / mountain-pass!
+higher than the lark,
+resting there far in the sky,
+Hoso mountain pass
 
 [Summer 1688]
 [Summer 1688]
@@ -422,7 +424,6 @@ there goes a firefly
 
 [Summer 1688]
 [Autumn 1688]
-At Ōtsu
 
 yo no natsu / korui ni ukamu / nami no ue
 [world’s summer / lake on float / wave’s top]
@@ -513,6 +514,7 @@ of my paper robe…
 
 [Spring 1689]
 [Spring 1689]
+
 omoshiro ya / kotoshi no haru mo / tabi no sora
 [exciting! / this year’s spring also / journey’s sky]
 how enticing now –
@@ -618,15 +620,14 @@ one time dreamed a dream
 [Summer 1689]
 [Summer 1689]
 
-mayuhaki o / omokage ni shite / beni no hana
-[eye-brow brush (acc.) / image into make / rouge-plant’s flower
-
 samidare no / furi nokoshite ya / hikaridō
 [fifth-month-rain’s / falling leaving? / light-hall]
 so the rains of spring
 fall and fall, yet leave untouched
 this bright Hall of Gold
 
+mayuhaki o / omokage ni shite / beni no hana
+[eye-brow brush (acc.) / image into make / rouge-plant’s flower
 so they bring to mind
 a lady’s small eyebrow brush –
 these saffron blossoms
@@ -726,19 +727,20 @@ very cool, so cool
 
 yu no nagori / iku tabi miru ya / kiri no moto
 [hot-spring’s departure / how-many times see! / mist’s under]
-night of the full moon…
-the weather in the north land
-so often changes
-
-meigetsu ya / hokkoku biyori / sadamenaki
-[bright-moon! / north-country weather / certainty nonexistent]
 leaving the hot springs:
 looking back how many times,
 searching through the mist
 
+meigetsu ya / hokkoku biyori / sadamenaki
+[bright-moon! / north-country weather / certainty nonexistent]
+night of the full moon…
+the weather in the north land
+so often changes
+
+
 [Autumn 1689]
-Visiting the Kannon temple at Nata
 [Autumn 1689]
+
 ishiyama no / ishi yori shiroshi / aki no kaze
 [Stone-Mountain’s / stones more-than is-white / autumn’s wind]
 whiter far than all
@@ -781,8 +783,8 @@ on a folding screen
 a mountain has been painted:
 winter seclusion
 
-[Autumn 1689]
 [Spring 1690]
+[Autumn 1689]
 
 kagerō ya / saiko no ito no / usugumori
 [heat-waves! / saiko’s thread’s / thin-cloud]
@@ -828,8 +830,6 @@ white azalea
 
 [Summer 1690]
 [Summer 1690]
-Staying over at Seta, I worshipped at Ishiyama temple at dawn
-and saw the Genji room there.
 
 akebono wa / mada murasaki ni / hototogisu
 [dawn as-for / still lavender in / cuckoo]
@@ -843,8 +843,8 @@ it will die so soon –
 yet showing no sign of it,
 a cicada’s cry
 
-[Autumn 1690]
 [Summer 1690]
+[Autumn 1690]
 
 hi no michi ya / aoi katamuku / satsukiame
 [sun’s path / hollyhock lean / summer-rains]
@@ -905,6 +905,7 @@ the wooden brazier
 
 [Winter 1690-1]
 [Winter 1690-1]
+
 kogarashi ya / hohobare itamu / hito no kao
 [winter-wind! / cheek-swollen hurt / person’s face]
 the wind of winter …
@@ -1102,15 +1103,15 @@ each other’s colour
 
 tōtogaru / namida ya somete / chiru momiji
 [valuable / tears? dye / fall autumn-leaves]
-waiting for the snow,
-the faces of wine lovers –
-a flash of lightning
-
-yuki o matsu / jōgo no kao ya / inabikari
-[snow (acc.) wait / wine-drinker’s face! / lightning]
 so very precious –
 and do they tint my tears? – the
 fall of autumn leaves
+
+yuki o matsu / jōgo no kao ya / inabikari
+[snow (acc.) wait / wine-drinker’s face! / lightning]
+waiting for the snow,
+the faces of wine lovers –
+a flash of lightning
 
 [Winter 1691-2]
 [Winter 1691-2]
@@ -1130,12 +1131,6 @@ among the dead leaves
 [Winter 1691-2]
 [Winter 1691-2]
 
-With no settled place in this world, for the last six or seven years I’ve
-spent my nights on the road, suffering many illnesses. Not being able to
-forget my friends and disciples of many years, I finally made my way
-back to Edo again. Day after day, they have come to visit me at this
-grassy hut, and so I offer this verse in response:
-
 kuzu no ha no / omote misekeri / kesa no shimo
 [arrowroot’s leaf’s / face showing / morning’s frost]
 leaves of arrowroot
@@ -1148,12 +1143,6 @@ somehow, in some way,
 it has yet survived … pampas
 grass amid the snow
 
-[Winter 1691-2]
-uo tori no / kokoro wa skirazu / toshiwasure
-[fish bird’s / heart as-for not-know / year-end-party]
-how fish and birds feel
-in their hearts, I cannot know –
-the old year passes
 
 [Spring 1692]
 [Summer 1692]
@@ -1175,15 +1164,16 @@ the cool of evening
 
 urayamashi / ukiyo no kita no / yamazakura
 [envious / floating-world’s north’s / mountain-cherry]
+how enviable:
+far north of the floating world,
+mountain cherries flower
+
+nadeshiko no / atsusa wasururu / nokiku kana
+[wild-pink’s / heat forget / wildflower!]
 they make me forget
 the heat of the summer pinks:
 wildflowers of the fields
 
-nadeshiko no / atsusa wasururu / nokiku kana
-[wild-pink’s / heat forget / wildflower!]
-how enviable:
-far north of the floating world,
-mountain cherries flower
 
 [Spring 1692]
 [Autumn 1692]
@@ -1215,10 +1205,8 @@ a needle will prick
 the fool entranced by moon flowers:
 start of deep winter
 
-[Autumn 1692]
 [Spring 1693]
-Near the end of the Fukagawa river, the moon shines into a boat at
-a place called ‘Five Pines’.
+[Autumn 1692]
 
 haru mo yaya / keshiki totonou / tsuki to ume
 [spring also gradually / appearance be-arranged / moon and plum]
@@ -1342,31 +1330,30 @@ leaking through the roof
 
 aoyagi no doro ni shidaruru / shiohi kana
 [green-willow’s / mud in hang-down / low-tide!]
-travelling the world,
-tilling a small field of rice
-back and forth and back …
-
-yo o tabi ni / shiro kaku oda no / yukimodori
-[world through journey on / field plough small-field’s / go-return]
 green willow branches
 drooping down into the mud:
 it is low tide now
+
+yo o tabi ni / shiro kaku oda no / yukimodori
+[world through journey on / field plough small-field’s / go-return]
+travelling the world,
+tilling a small field of rice
+back and forth and back …
 
 [Summer 1694]
 [Summer 1694]
 
 rokugatsu ya / mine ni kumo oku / arashiyama
 [sixth-month! / peak on clouds lay / windstorm-mountain]
-a deutzia bush –
-and over it, dark, a willow
-that is bending back
-
-unohana ya / kuraki yanagi no / oyobigoshi
-[deutzia! / dark willow’s / bending-back]
 the sixth month is here! –
 clouds cover now its summit,
 the Windstorm Mountain
 
+unohana ya / kuraki yanagi no / oyobigoshi
+[deutzia! / dark willow’s / bending-back]
+a deutzia bush –
+and over it, dark, a willow
+that is bending back
 
 [Summer 1694]
 [Summer 1694]
@@ -1385,12 +1372,6 @@ needles from green pines
 
 [Summer 1694]
 [Autumn 1694]
-
-On the back wall of a Nō stage in Honma Shume’s house is a
-picture of skeletons playing music and performing. Is human life any
-different from this? Zhuangzi used to have a skull for his pillow, and
-said he could not distinguish reality from dream. This truly evokes the
-insubstantiality of our lives.
 
 natsu no yo ya / kuzurete akeshi / hiyashimono
 [summer’s night! / broken dawn / chilled-food
@@ -1454,15 +1435,15 @@ at festival time
 
 meigetsu ni / fumoto no kiri ya / ta no kumori
 [bright-moon under / foothill’s mist! / field’s cloudiness]
-autumn passing now …
-through the slow drizzling of rain
-the shape of the moon
-
-aki mo haya / baratsuku ame ni / tsuki no nari
-[autumn already / sprinkle rain in / moon’s form]
 beneath the harvest
 moon, mist upon the foothills,
 haze upon the fields
+
+aki mo haya / baratsuku ame ni / tsuki no nari
+[autumn already / sprinkle rain in / moon’s form]
+autumn passing now …
+through the slow drizzling of rain
+the shape of the moon
 
 [Autumn 1694]
 [Autumn 1694]
